@@ -64,5 +64,9 @@ public class AppWidgetDemo extends AppWidgetProvider {
         Log.e("liu","onDisabled()");
     }
 
+    public void test() {
+
+    }
+
 }
 
