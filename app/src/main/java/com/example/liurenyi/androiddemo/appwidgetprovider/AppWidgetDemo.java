@@ -68,5 +68,9 @@ public class AppWidgetDemo extends AppWidgetProvider {
 
     }
 
+    public void haha() {
+
+    }
+
 }
 
