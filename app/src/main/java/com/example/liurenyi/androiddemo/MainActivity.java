@@ -9,6 +9,8 @@ import com.example.liurenyi.androiddemo.db.Weather;
 
 public class MainActivity extends AppCompatActivity {
 
+    private static final String TAG = "";
+    private static final boolean DEBUG = true;
     private Button addData;
 
     @Override
